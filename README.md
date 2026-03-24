@@ -83,13 +83,12 @@ Automated eye-testing application with real-time result calculation.
 
 ---
 
-## 💼 Experience
+## 💼 Experience/ Internships
 
 | Period | Role | Company |
 |--------|------|---------|
 | May–Jun 2024 | Web Development Intern | Motion Cut · Remote |
 | Apr–May 2024 | Java Intern | Slash Mark · Remote |
-| 2024 | AWS Workshop Volunteer | Vignan's Institute of IT |
 
 ---
 
