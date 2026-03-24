@@ -11,7 +11,7 @@
 - 🔭 Currently building a **Hospital Management System** using Java Spring Boot & REST APIs
 - 🌱 Learning **Microservices Architecture** and **Cloud (AWS/GCP)**
 - 💬 Ask me about **Java, Spring Boot, Python, REST APIs, ReactJS**
-- 🏆 Solved **600+ problems** on CodeChef + LeetCode
+- 🏆 Solved **500+ problems** on CodeChef + LeetCode
 - 📫 Reach me at **velagakavyasri@gmail.com**
 - 🌐 Portfolio: **[v-kavya7.github.io/portfolio](https://v-kavya7.github.io/portfolio)**
 
