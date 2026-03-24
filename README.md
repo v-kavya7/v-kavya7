@@ -122,8 +122,6 @@ Automated eye-testing application with real-time result calculation.
 
 ![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-kavya7&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-kavya7&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ## 🤝 Connect with Me
