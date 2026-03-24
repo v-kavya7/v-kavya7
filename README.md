@@ -110,14 +110,6 @@ Automated eye-testing application with real-time result calculation.
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Solved **400+ problems** on CodeChef in Java
-- 🥈 Solved **100+ problems** on LeetCode (Java — DSA & Problem Solving)
-- ☁️ Volunteered at **AWS Workshop** — IT Department, Vignan's Institute
-
----
-
 ## 📊 GitHub Stats
 
 ![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-kavya7&show_icons=true&theme=default&hide_border=true&count_private=true)
