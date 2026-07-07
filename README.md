@@ -112,7 +112,7 @@ Automated eye-testing application with real-time result calculation.
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/vkavya7)
-- 📧 [velagakavyasri@gmail.com](mailto:velagakavyasri57@gmail.com)
+- 📧 [velagakavyasri57@gmail.com](mailto:velagakavyasri57@gmail.com)
 - 🌐 [Portfolio](https://v-kavya7.github.io/portfolio)
 
 ---
