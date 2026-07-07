@@ -12,7 +12,7 @@
 - 🌱 Learning **Microservices Architecture** and **Cloud (AWS/GCP)**
 - 💬 Ask me about **Java, Spring Boot, Python, REST APIs, ReactJS**
 - 🏆 Solved **500+ problems** on CodeChef + LeetCode
-- 📫 Reach me at **velagakavyasri@gmail.com**
+- 📫 Reach me at **velagakavyasri57@gmail.com**
 - 🌐 Portfolio: **[v-kavya7.github.io/portfolio](https://v-kavya7.github.io/portfolio)**
 
 ---
@@ -111,8 +111,8 @@ Automated eye-testing application with real-time result calculation.
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/kavyasri-velaga)
-- 📧 [velagakavyasri@gmail.com](mailto:velagakavyasri@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/vkavya7)
+- 📧 [velagakavyasri@gmail.com](mailto:velagakavyasri57@gmail.com)
 - 🌐 [Portfolio](https://v-kavya7.github.io/portfolio)
 
 ---
